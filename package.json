@@ -1,0 +1,22 @@
+{
+  "name": "faq-accordion-card",
+  "version": "1.0.0",
+  "description": "![Design preview for the FAQ accordion card coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/input.css -o ./tailwind.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/00lar/FAQ-accordion-card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/00lar/FAQ-accordion-card/issues"
+  },
+  "homepage": "https://github.com/00lar/FAQ-accordion-card#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
