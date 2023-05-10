@@ -575,16 +575,8 @@ video {
   justify-content: center;
 }
 
-.justify-between {
-  justify-content: space-between;
-}
-
 .rounded-3xl {
   border-radius: 1.5rem;
-}
-
-.border-b-2 {
-  border-bottom-width: 2px;
 }
 
 .bg-white {
@@ -636,13 +628,12 @@ video {
   line-height: 2.5rem;
 }
 
-.text-xs {
-  font-size: 0.75rem;
-  line-height: 1rem;
-}
-
 .font-bold {
   font-weight: 700;
+}
+
+.font-normal {
+  font-weight: 400;
 }
 
 .underline {
@@ -655,4 +646,12 @@ video {
   border-bottom-width: 2px;
   font-size: 0.75rem;
   line-height: 1rem;
+}
+
+.Ocultar {
+  display: none;
+}
+
+.Negritas {
+  font-weight: 700;
 }

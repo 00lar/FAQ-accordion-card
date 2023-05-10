@@ -3,5 +3,13 @@
 @tailwind utilities;
 
 .question {
-    @apply flex justify-between border-b-2 text-xs;
-};
+  @apply flex justify-between border-b-2 text-xs;
+}
+
+.Ocultar {
+  @apply hidden;
+}
+
+.Negritas {
+  @apply font-bold;
+}
