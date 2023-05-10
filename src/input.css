@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.rotar {
+  @apply rotate-180;
+}
+
 .question {
   @apply flex justify-between border-b-2 text-xs;
 }
