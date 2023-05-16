@@ -17,3 +17,7 @@
 .Negritas {
   @apply font-bold;
 }
+
+.RowBtns {
+  @apply pb-6 w-1/12 bg-Row bg-cover bg-center max-h-4;
+}

@@ -14,6 +14,9 @@ module.exports = {
         SoftViolet: "hsl(273, 75%, 66%)",
         SoftBlue: "hsl(240, 73%, 65%)",
       },
+      backgroundImage: {
+        Row: "url('./images/icon-arrow-down.svg')",
+      },
     },
   },
   plugins: [],
