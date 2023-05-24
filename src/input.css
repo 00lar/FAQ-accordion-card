@@ -7,7 +7,7 @@
 }
 
 .question {
-  @apply flex justify-between border-b-2 text-xs;
+  @apply flex justify-between border-b-2 text-xs lg:text-2xl;
 }
 
 .Ocultar {
@@ -21,3 +21,4 @@
 .RowBtns {
   @apply pb-6 w-1/12 bg-Row bg-cover bg-center max-h-4;
 }
+

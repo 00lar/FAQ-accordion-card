@@ -16,7 +16,9 @@ module.exports = {
       },
       backgroundImage: {
         Row: "url('./images/icon-arrow-down.svg')",
+        GirlImgeMobile: "url('./images/illustration-woman-online-mobile.svg')",
       },
+
     },
   },
   plugins: [],
